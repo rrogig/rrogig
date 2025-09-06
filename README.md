@@ -1,6 +1,7 @@
 ## Presentación
 
 Me llamo Rocío Gigliotti
+
 Soy estudiante de Ingeniería Informática en la UNMdP, actualmente cursando cuarto año
 
 Como parte de la materia Sistemas Distribuídos, me encuentro actualmente realizando el curso "Ethereum Developer Pack"
@@ -8,6 +9,7 @@ Como parte de la materia Sistemas Distribuídos, me encuentro actualmente realiz
 🌱 Mis intereses como developer incluyen explorar nuevas tecnologías y sumarme a proyectos interesantes
 
 🌱 Mis objetivos en Web3 son aprender las bases técnicas y contribuír a proyectos open-source
+
 🌱 También me interesa conocer las distintas áreas para saber en cual me gustaría especializarme
 
 <!--
